@@ -1,6 +1,6 @@
 {
-  "name": "02-02-word-counter",
-  "version": "1.0.0",
+  "name": "m1_02-02-word-counter",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "type": "module",
